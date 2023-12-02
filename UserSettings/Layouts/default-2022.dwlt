@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1842
     height: 1021
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Scene
   m_RootView: {fileID: 7}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 100}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 186
+  controlID: 52
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -249,7 +249,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 1
-  controlID: 187
+  controlID: 53
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -275,7 +275,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 50}
   m_MaxSize: {x: 24288, y: 8096}
   vertical: 0
-  controlID: 188
+  controlID: 54
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -357,14 +357,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: "C:\\Users\\M\xFCcahit Ku\u015F\\Araba oyunu"
+  m_LastProjectPath: "C:\\Users\\M\xFCcahit Ku\u015F\\Araba-Oyunum\\Araba-Oyunum"
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: e25b0000
-    m_LastClickedID: 23522
-    m_ExpandedIDs: 00000000e25b000000ca9a3bffffff7f
+    m_SelectedIDs: bc5b0000
+    m_LastClickedID: 23484
+    m_ExpandedIDs: 00000000bc5b000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -392,7 +392,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000e25b0000
+    m_ExpandedIDs: 00000000bc5b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -532,9 +532,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 6cfaffff
+      m_SelectedIDs: 625a0000
+      m_LastClickedID: 23138
+      m_ExpandedIDs: 2cfbffff745a0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -862,9 +862,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -56.60721, y: 26.8, z: 3764.7896}
+    m_Target: {x: 7.0777836, y: 19.542095, z: -14.491957}
     speed: 2
-    m_Value: {x: -56.60721, y: 26.8, z: 3764.7896}
+    m_Value: {x: 7.0777836, y: 19.542095, z: -14.491957}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -910,13 +910,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.09615745, y: 0.023590222, z: -0.002119144, w: 0.9952632}
+    m_Target: {x: -0.0036324689, y: -0.9737775, z: 0.22780763, w: -0.014579796}
     speed: 2
-    m_Value: {x: 0.09614033, y: 0.023586024, z: -0.0021187668, w: 0.99508613}
+    m_Value: {x: -0.003609953, y: -0.9739406, z: 0.22630545, w: -0.014582567}
   m_Size:
-    m_Target: 83.26737
+    m_Target: 44.351494
     speed: 2
-    m_Value: 83.26737
+    m_Value: 44.351494
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1008,7 +1008,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 0
+    m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
